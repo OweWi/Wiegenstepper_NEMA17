@@ -16,3 +16,5 @@ Software/Tooling:
 - Arduino Framework (Framework super, IDE nicht so!)
 - VSCode mit PlatformIO und den wunderbaren Plugins
 - TMCStepper library (Versionsverwaltung über PlatformIO)
+
+![Wiegende Wiege](img/wiegende_wiege.gif)
