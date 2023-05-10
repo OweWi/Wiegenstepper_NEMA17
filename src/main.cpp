@@ -3,8 +3,10 @@
  * New Version from Owe Wisch
  * Takes the demo project from the TMCStepper library
  * and uses a 2280 Stepper to move the baby ;-).
- * To be continued:
- * (Variable stepsize, either by rotary encoder or random)
+ * To be continued! Open features:
+ * - Variable stepsize, either by rotary encoder or random
+ * - Position tracking of the stepper
+ * 
  */
 
 #include <Arduino.h>
